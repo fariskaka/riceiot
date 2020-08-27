@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RIceForYou
+</name>
+</assembly>
+<members>
+<member name="T:RIceForYou.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources._35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.avatar_2191918_1920">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.avatar_2191932_1920">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.blue_and_gray_logo_illustration_png_clip_art">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.c">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.CLICK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.Click_to_browse">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.connecter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.Disconnect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_arrow_sans_right_103303">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_Bin_2202256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_check_box_outline_blank_326558">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_close15_216468">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_close15_216468__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_close15_216468__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_close15_216468__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_close15_216468__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_close15_216468__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_Computer__Computer_Hardware_USB_Port_Connection_4064143">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_Computer__Computer_Hardware_USB_Port_Connection_4064143__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_Computer__Computer_Hardware_USB_Port_Connection_4064143__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_Computer__Computer_Hardware_USB_Port_Connection_4064143__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_Computer__Computer_Hardware_USB_Port_Connection_4064143__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_Computer__Computer_Hardware_USB_Port_Connection_4064143__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_icon_27_one_finger_click_315854">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_icon_32_clipboard_edit_314288">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_icon_32_clipboard_edit_314288__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_icon_32_clipboard_edit_314288__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_icon_32_clipboard_edit_314288__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_select_all_326691">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_user_half_edit_103775">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_user_half_edit_103775__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_user_half_edit_103775__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_user_half_edit_103775__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_user_half_edit_103775__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_user_profile_103780">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_user_profile_103780__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_user_profile_103780__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_user_profile_103780__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.iconfinder_user_profile_103780__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.logo_Madac">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RIceForYou.My.Resources.Resources.logo_Madac1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
